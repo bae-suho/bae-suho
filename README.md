@@ -5,7 +5,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=2800&amp;pause=1000&amp;color=247C83&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+for+real+needs.%3BLearning+across+Web+and+iOS.%3BTurning+ideas+into+services." width="650" alt="Building for real needs. Learning across Web and iOS. Turning ideas into services." />
 
-### 사용자에게 필요한 서비스를 고민하는 개발자, 배수호
+### 사용자에게 필요한 서비스를 고민하는 개발자
 
 AI로 구현의 가능성이 넓어지는 만큼, **무엇을 왜 만들지** 생각하는 일을 중요하게 여깁니다.  
 다양한 경험을 가진 사람들과 배우고 생각을 나누며, 아이디어를 서비스로 만들고 싶습니다.
@@ -70,8 +70,6 @@ AI로 구현의 가능성이 넓어지는 만큼, **무엇을 왜 만들지** �
 <img src="https://img.shields.io/badge/SwiftUI-247C83?style=flat-square&amp;logo=swift&amp;logoColor=white" alt="SwiftUI" />
 </p>
 
-Swift·UIKit·SwiftUI를 학습하며 팀 프로젝트에서 앱 화면을 구현했습니다.
-
 ### Backend & Database · Learning
 
 <p>
@@ -79,8 +77,6 @@ Swift·UIKit·SwiftUI를 학습하며 팀 프로젝트에서 앱 화면을 구�
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=spring&amp;logoColor=white" alt="Spring" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
 </p>
-
-교육과정에서 Java·Spring·MySQL을 학습했습니다.
 
 ### Collaboration
 
@@ -110,18 +106,10 @@ Swift·UIKit·SwiftUI를 학습하며 팀 프로젝트에서 앱 화면을 구�
 
 ## 📊 GitHub Activity
 
-[공개 활동과 기여 기록 보기](https://github.com/bae-suho?tab=overview)
-
-<details>
-<summary>GitHub 통계 카드 펼치기</summary>
-
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=bae-suho&amp;show_icons=true&amp;hide_border=true&amp;theme=transparent&amp;title_color=247C83&amp;icon_color=247C83&amp;hide_rank=true" alt="bae-suho GitHub statistics" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bae-suho&amp;layout=compact&amp;hide_border=true&amp;theme=transparent&amp;title_color=247C83" alt="Languages in public repositories; not a measure of proficiency" />
 </p>
 
-언어 통계는 공개 저장소의 코드 구성을 보여주며, 기술 숙련도나 전체 프로젝트 경험을 의미하지 않습니다.
-
-</details>
 
 <!-- Header, typing animation, badges, and statistics use external SVG services. -->
